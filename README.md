@@ -58,31 +58,21 @@ BaseURL/pets
 | PUT         | /:petId        | Matching ID pet edition  |
 | DELETE      | /:petId        | Matching ID pet deletion |
 
-Members of the development team
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Team Members
 
-Patricia Lago Espino
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Github: https://github.com/patriiilago
+**Patricia Lago Espino**  
+- Github: [patriiilago](https://github.com/patriiilago)  
+- LinkedIn: [Patricia Lago](https://www.linkedin.com/in/patri-lago)  
 
-LinkedIn: https://www.linkedin.com/in/patri-lago
+**Teresa Arranz Carrasco**  
+- Github: [Tere1102](https://github.com/Tere1102)  
+- LinkedIn: [Teresa Arranz Carrasco](https://www.linkedin.com/in/teresa-arranz-carrasco)  
 
-Teresa Arranz Carrasco
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Github: https://github.com/Tere1102
+**Oscar Gomez Diez**  
+- Github: [OscarDev83](https://github.com/OscarDev83)  
+- LinkedIn: [Óscar Gómez Díez](https://www.linkedin.com/in/%C3%B3scar-g%C3%B3mez-d%C3%AFez-b967202a/) 
 
-LinkedIn: https://www.linkedin.com/in/teresa-arranz-carrasco
+## Deployment
 
-Oscar Gomez Diez
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Github: https://github.com/OscarDev83
-
-Linkedin: https://www.linkedin.com/in/%C3%B3scar-g%C3%B3mez-d%C3%ADez-b967202a/
-
-DEPLOY CLIENT
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-https://miauyuda.netlify.app/
-
-DEPLOY SERVER
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-https://miauyuda.fly.dev/
+**Client:** [https://miauyuda.netlify.app/](https://miauyuda.netlify.app/)  
+**Server:** [https://miauyuda.fly.dev/](https://miauyuda.fly.dev/)
